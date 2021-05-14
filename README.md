@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h1 align="center">Amazon Clone</h1>
+
+
+<div align="center">
+  <h3>
+    <a href="https://e-clone-d601a.web.app/">
+      Demo
+    </a>
+  </h3>
+</div>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
